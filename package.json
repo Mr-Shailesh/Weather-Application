@@ -9,6 +9,7 @@
   "author": "Logitech",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.17.1",
     "hbs": "^4.1.1"
   }
